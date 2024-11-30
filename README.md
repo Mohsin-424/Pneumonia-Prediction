@@ -1,7 +1,7 @@
 # pneumonia-classification-web-app-python-streamlit
 
 A pneumonia classifier was used to classify X-RAY images into {PNEUMONIA, NORMAL}.
-
+click this link to view our model ""
 ## data
 
 - Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
